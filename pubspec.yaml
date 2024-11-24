@@ -1,0 +1,70 @@
+name: earth_eye
+description: "The app helps farmers do shid."
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # fonts
+  google_fonts:
+
+  # Utitly Packages
+  http:
+  intl:
+  # logger:
+  # lottie:
+  # url_launcher:
+  # connectivity_plus:
+  # flutter_native_splash:
+  smooth_page_indicator:
+  # shimmer: ^3.0.0
+  # image_picker: ^1.1.2
+
+  #Icons
+  iconsax: 
+  cupertino_icons:
+
+  # State Management
+  get:
+  get_storage:
+
+  # #Firebase
+  # firebase_core: ^3.6.0
+  # firebase_auth:
+  # cloud_firestore:
+  # google_sign_in: ^6.2.1
+  # firebase_storage: ^12.3.3
+  cached_network_image: ^3.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/animations/
+    - assets/images/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package
