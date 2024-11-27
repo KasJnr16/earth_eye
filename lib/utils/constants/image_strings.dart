@@ -2,15 +2,14 @@ class EarthImages {
   EarthImages._();
 
   //--App logos
-  
-  //--Social Logos
-  
-  //--OnBoarding Images
-  static const String onBoardingImage1 =
-      "assets/images/on_boarding_images/buy.gif";
-  static const String onBoardingImage2 =
-      "assets/images/on_boarding_images/wallet.gif";
-  static const String onBoardingImage3 =
-      "assets/images/on_boarding_images/delivery-truck.gif";
+  static const String appLogo = "assets/icons/social/google.png";
 
- }
+  //--Social Logos
+  static const String google = "assets/icons/social/google.png";
+
+  //--OnBoarding Images
+  static const String onBoardingImage1 = "assets/animations/qr-code.gif";
+  static const String onBoardingImage2 =
+      "assets/animations/artificial-intelligence.gif";
+  static const String onBoardingImage3 = "assets/animations/shield.gif";
+}

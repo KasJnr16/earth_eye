@@ -3,25 +3,25 @@ class EarthTexts {
 
   //--Global Texts
   static const String submit = "Submit";
-  static const String appName = "Uni-Sell";
+  static const String appName = "EartthEye";
   static const String uContinue = "Continue";
   static const String seacrhInStore = "Search in Store";
 
   //--OnBoarding Texts
-  static const String onBoardingTitle1 = "Choose your product";
-  static const String onBoardingTitle2 = "Select Payment Method";
-  static const String onBoardingTitle3 = "Deliver at your door step";
+  static const String onBoardingTitle1 = "Scan The Soil";
+  static const String onBoardingTitle2 = "Smart AI Assitant";
+  static const String onBoardingTitle3 = "Bumper Harvest";
 
   static const String onBoardingSubTitle1 =
-      "Welcome to a World of Limitless Choices - Your Perfect Product Awaits!";
+      "Get accurate soil information for planning your next yeild - From Soil Nutrinets, To Moisture Content!";
   static const String onBoardingSubTitle2 =
-      "For Seamless Transactions, Choose Your Payment PAth - Your Convenience, Our Priority!";
+      "For realiable advice, Our AI will guide you in every step of the way - Your Convenience, Our Priority!";
   static const String onBoardingSubTitle3 =
-      "From Our Doorstep to Yours - Swift, Secure, and Contactless Delivery!";
+      "From seedlings to Yeilds - Swift, Safe farming, and Farm Security!";
 
   //--Home
-  static const String homeAppBarTitle = "Good day for shopping";
-  static const String homeAppBarSubTitle = "UniSell -By SpringDeveloper716";
+  static const String homeAppBarTitle = "Hello";
+  static const String homeAppBarSubTitle = "EARTHEYE -By [GroupName]";
 
   //--Form Text
   static const String firstName = "First Name";

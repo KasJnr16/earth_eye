@@ -16,14 +16,14 @@ dependencies:
   # Utitly Packages
   http:
   intl:
-  # logger:
-  # lottie:
-  # url_launcher:
-  # connectivity_plus:
-  # flutter_native_splash:
+  logger:
+  lottie:
+  url_launcher:
+  connectivity_plus:
+  flutter_native_splash:
   smooth_page_indicator:
-  # shimmer: ^3.0.0
-  # image_picker: ^1.1.2
+  shimmer: ^3.0.0
+  image_picker: ^1.1.2
 
   #Icons
   iconsax: 
@@ -53,6 +53,9 @@ flutter:
   assets:
     - assets/animations/
     - assets/images/
+    - assets/icons/
+    - assets/logos/
+    - assets/icons/social/
 
   # fonts:
   #   - family: Schyler
