@@ -1,0 +1,94 @@
+name: earth_eye_web
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.2
+dependencies:
+  flutter:
+    sdk: flutter
+
+   # fonts
+  google_fonts:
+
+  
+  # State Management
+  get:
+  get_storage:
+
+  # Utitly Packages
+  intl:
+  logger:
+  lottie:
+  url_launcher:
+  connectivity_plus:
+  flutter_native_splash:
+  smooth_page_indicator:
+  image_picker: ^1.1.2
+  multi_select_flutter:
+  flutter_dropzone: ^4.2.1 
+  flutter_dropzone_platform_interface: ^2.2.0
+  clipboard: ^0.1.3
+  flutter_typeahead:
+
+  # Web
+  web:
+  http:
+  html:
+  fl_chart: ^0.69.2
+  data_table_2: ^2.5.16
+  url_strategy:
+  universal_html: ^2.2.4
+
+  #Icons
+  iconsax: 
+  cupertino_icons:
+
+  #Product Specific
+  readmore:
+  flutter_rating_bar: ^4.0.1
+  carousel_slider:
+
+  #Firebase
+  firebase_core: ^3.6.0
+  firebase_auth:
+  cloud_firestore:
+  google_sign_in: ^6.2.1
+  firebase_storage: ^12.3.3
+
+  flutter_lints: ^4.0.0
+
+  shimmer: ^3.0.0
+  cached_network_image: ^3.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/logos/
+    - assets/icons/
+    - assets/videos/
+    - assets/images/animations/
+    - assets/icons/social/
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
